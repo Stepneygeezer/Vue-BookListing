@@ -28,11 +28,11 @@ export default {
 
 h1, h2 {font-weight: normal}
 ul{
-    list-style-type:none;
-    padding:0px;
+    list-style-type: none;
+    padding: 0px;
 }
 li{
-    display:block;
+    display: block;
     margin: 0 10px;
 }
 </style>
